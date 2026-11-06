@@ -1,0 +1,13 @@
+---
+title: "Articles"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+page-layout: full
+---
+
+数学に関する記事・解説・考察を掲載します。

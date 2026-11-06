@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Dorhodo"
+  description: "Mathematics, ideas, and presentations."
+  site-url: "https://dorhodo.github.io/"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: articles/index.qmd
+        text: Articles
+      - href: slides/index.qmd
+        text: Slides
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/dorhodo
+        aria-label: GitHub
+  page-footer:
+    center: "© Dorhodo"
+
+format:
+  html:
+    theme: [cosmo, styles.css]
+    lang: ja
+    toc: true
+    smooth-scroll: true
+
+execute:
+  freeze: auto
