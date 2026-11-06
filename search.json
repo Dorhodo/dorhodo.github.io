@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "数学について考えたこと、学んだこと、発表したことをまとめる場所です。\n整数論・代数幾何学・数論幾何学を中心に、スライドや記事を公開していきます。\n\n\n記事は Articles から読めます。\n\n\n\nこれまでに作成した発表資料は Slides にまとめています。\n\n\n\nDorhodoについて。"
+  },
+  {
+    "objectID": "index.html#recent-articles",
+    "href": "index.html#recent-articles",
+    "title": "Home",
+    "section": "",
+    "text": "記事は Articles から読めます。"
+  },
+  {
+    "objectID": "index.html#selected-slides",
+    "href": "index.html#selected-slides",
+    "title": "Home",
+    "section": "",
+    "text": "これまでに作成した発表資料は Slides にまとめています。"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Home",
+    "section": "",
+    "text": "Dorhodoについて。"
+  },
+  {
+    "objectID": "articles/posts/first-note.html",
+    "href": "articles/posts/first-note.html",
+    "title": "数学の記事のサンプル",
+    "section": "",
+    "text": "これは記事のサンプルです。内容を編集するか、公開前に削除してください。"
+  },
+  {
+    "objectID": "articles/posts/first-note.html#数式",
+    "href": "articles/posts/first-note.html#数式",
+    "title": "数学の記事のサンプル",
+    "section": "数式",
+    "text": "数式\nインライン数式は \\(e^{i\\pi}+1=0\\) のように書けます。\nディスプレイ数式は次のように書けます。\n\\[\n\\zeta(s)=\\sum_{n=1}^{\\infty}\\frac{1}{n^s}.\n\\]"
+  },
+  {
+    "objectID": "articles/posts/first-note.html#記事の追加方法",
+    "href": "articles/posts/first-note.html#記事の追加方法",
+    "title": "数学の記事のサンプル",
+    "section": "記事の追加方法",
+    "text": "記事の追加方法\nこのファイルを複製して articles/posts/ に置き、タイトル・日付・本文を書き換えてください。"
+  },
+  {
+    "objectID": "slides/index.html",
+    "href": "slides/index.html",
+    "title": "Slides",
+    "section": "",
+    "text": "これまでに作成した発表資料を掲載します。PDFを slides/pdf/ に置き、以下のような項目を追加してください。"
+  },
+  {
+    "objectID": "slides/index.html#発表資料",
+    "href": "slides/index.html#発表資料",
+    "title": "Slides",
+    "section": "発表資料",
+    "text": "発表資料\n\n発表タイトル\n\n日付： YYYY-MM-DD\n概要： 発表内容の簡単な説明。\n資料： PDFを開く\n\nexample.pdf は実際のPDFファイル名に置き換えてください。"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "ここに自己紹介を記入してください。\n\n\n\nNumber Theory\nAlgebraic Geometry\nArithmetic Geometry\n\n\n\n\n発表・執筆・その他の活動をここに追加できます。\n\n\n\n\nGitHub\n\n\n公開サイトなので、住所・電話番号・学校や所属先など、公開したくない個人情報は掲載しないようにしてください。"
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About",
+    "section": "",
+    "text": "Number Theory\nAlgebraic Geometry\nArithmetic Geometry"
+  },
+  {
+    "objectID": "about.html#activities",
+    "href": "about.html#activities",
+    "title": "About",
+    "section": "",
+    "text": "発表・執筆・その他の活動をここに追加できます。"
+  },
+  {
+    "objectID": "about.html#links",
+    "href": "about.html#links",
+    "title": "About",
+    "section": "",
+    "text": "GitHub\n\n\n公開サイトなので、住所・電話番号・学校や所属先など、公開したくない個人情報は掲載しないようにしてください。"
+  },
+  {
+    "objectID": "articles/index.html",
+    "href": "articles/index.html",
+    "title": "Articles",
+    "section": "",
+    "text": "数学に関する記事・解説・考察を掲載します。\n\n\n\n\n\n\n   \n    \n    \n      並び替え\n      デフォルト\n      \n        題名\n      \n      \n        日付 - 日付（昇順）\n      \n      \n        日付 - 日付（降順）\n      \n      \n        作者\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n数学の記事のサンプル\n\n\n\nMathematics\n\nNotes\n\n\n\n\n\n\n\n\n\n\n\n2026/11/06\n\n\nDorhodo\n\n\n\n\n\n一致なし"
+  }
+]
