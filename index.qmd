@@ -2,20 +2,22 @@
 title: "Home"
 ---
 
-# Mathematics, Ideas & Beyond.
+# I Have no Idea to Write.
 
 数学について考えたこと、学んだこと、発表したことをまとめる場所です。
 
-整数論・代数幾何学・数論幾何学を中心に、スライドや記事を公開していきます。
+整数論・代数幾何学・数論幾何学・その他サブカルを中心に、スライドや記事を公開していきたいです。
 
 ## Recent articles
 
-記事は [Articles](/articles/) から読めます。
+好き放題書いた記事は [Articles](/articles/) から読めます。好き放題書いていない記事も読めます。
 
 ## Selected slides
 
 これまでに作成した発表資料は [Slides](/slides/) にまとめています。
 
 ## About
+
+自己紹介です。
 
 [Dorhodoについて](about.html)。
