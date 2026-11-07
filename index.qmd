@@ -2,7 +2,7 @@
 title: "Home"
 ---
 
-# I Have no Idea to Write.
+# About this site.
 
 数学について考えたこと、学んだこと、発表したことをまとめる場所です。
 
@@ -16,7 +16,7 @@ title: "Home"
 
 これまでに作成した発表資料は [Slides](/slides/) にまとめています。
 
-## About
+## About me
 
 自己紹介です。
 
